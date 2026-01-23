@@ -27,6 +27,18 @@ GoogleGstatic         = "https://www.gstatic.com"
 CloudflareWeb         = "https://www.cloudflare.com"
 CloudflareCDN         = "https://cdnjs.cloudflare.com"
 
+### Telegram
+TelegramWeb           = "https://web.telegram.org"
+TelegramAPI           = "https://api.telegram.org"
+TelegramCDN           = "https://telegram.org"
+TelegramDCPing        = "PING:149.154.167.51"
+TelegramDCPing2       = "PING:149.154.175.50"
+
+### Chess.com
+ChessMain             = "https://www.chess.com"
+ChessStatic           = "https://images.chesscomfiles.com"
+ChessAPI              = "https://api.chess.com"
+
 ### Public DNS (PING-only)
 CloudflareDNS1111     = "PING:1.1.1.1"
 CloudflareDNS1001     = "PING:1.0.0.1"
